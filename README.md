@@ -144,7 +144,7 @@ The Power BI dashboard provides an interactive view of:
 - Subscription Insights
 - Purchase Trends
 
-> *(Add dashboard screenshots here after uploading them.)*
+
 
 ---
 
